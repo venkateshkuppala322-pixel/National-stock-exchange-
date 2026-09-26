@@ -1,0 +1,2 @@
+# Excel support for export
+openpyxl==3.10.0
